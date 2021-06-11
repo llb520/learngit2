@@ -1,5 +1,4 @@
 分支联系
-main
 
 test git
 :wq
